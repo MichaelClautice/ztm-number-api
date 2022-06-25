@@ -1,4 +1,4 @@
-//  Michael Clautice, Richmond, VA
+// Michael J Clautice, Richmond, VA
 import { render, screen } from '@testing-library/react';
 import App from './App';
 

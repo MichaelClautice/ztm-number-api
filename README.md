@@ -1,5 +1,7 @@
 # ztm-number-api
-API exercise to make a web page that uses an API
+
+API exercise to make a single page web app that uses an API
+
 
 # Getting Started with Create React App
 
@@ -71,4 +73,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-

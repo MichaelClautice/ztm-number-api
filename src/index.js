@@ -1,4 +1,4 @@
-//  Michael Clautice, Richmond, VA
+// Michael J Clautice, Richmond, VA
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
