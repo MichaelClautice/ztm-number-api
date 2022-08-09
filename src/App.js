@@ -1,24 +1,10 @@
 // Michael J Clautice, Richmond, VA
-import logo from './logo.svg';
-import './App.css';
+// ZTM API exercise to make a sngl pg web app that uses an API
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>HELLO! 😎</h1>
     </div>
   );
 }

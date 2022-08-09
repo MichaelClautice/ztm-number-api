@@ -1,3 +1,6 @@
+# Michael Clautice, Richmond, VA
+# ZTM API exercise to make a sngl pg web app that uses an API
+
 # ztm-number-api
 
 API exercise to make a single page web app that uses an API
